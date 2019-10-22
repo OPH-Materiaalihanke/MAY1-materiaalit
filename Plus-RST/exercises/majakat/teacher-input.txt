@@ -1,0 +1,16 @@
+
+arithmetic
+ok_text Hienosti meni! Pinta-ala voidaan laskea ympyröiden kahden segmentin pinta-alana. Kulma `alpha` saadaan selvitettyä
+Pythagoraan lauseella kun tiedetään, että kolmion korkeus on majakoiden etäisyys jaettuna kahdella
+eli `32`, siispä  `cos(alpha/2)=frac{32}{40}<=> alpha\approx 73,74^{\circ}`. 
+Segmenttiä vastaavan ympyräsektorin pinta-ala voidaan laskea `frac{73,74}{360}pi*40^2`.
+Tasakylkisen kolmion pinta-ala taas on `frac{1}{2}*40^2sin(73,74)`. 
+Segmentin pinta-ala saadaan näiden kahden erotuksena, eli se on noin `261,6` joten koko alueen pinta-ala on pyöristettynä `523\text{ km}^2`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+523
+// BYCODEBEGIN
+=
+// BYCODEEND

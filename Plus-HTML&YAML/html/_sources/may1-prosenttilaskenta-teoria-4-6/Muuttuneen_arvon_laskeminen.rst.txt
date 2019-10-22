@@ -1,0 +1,2 @@
+Muuttuneen arvon laskeminen
+---------------------------

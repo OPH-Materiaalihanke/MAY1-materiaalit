@@ -1,0 +1,12 @@
+
+arithmetic
+ok_text Hienosti meni! Kulman suuruus voidaan laskea esimerkiksi tangentin avulla, eli 
+`tan(alpha)=frac{8}{10}<=>alpha=tan^{-1}(frac{4}{5})\approx 39^{\circ}`.
+
+f_nodes 2
+hide_expr
+only_no_yes_on
+39
+// BYCODEBEGIN
+=
+// BYCODEEND

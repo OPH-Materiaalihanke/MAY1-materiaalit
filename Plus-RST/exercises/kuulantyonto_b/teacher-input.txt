@@ -1,0 +1,15 @@
+
+arithmetic
+ok_text Hienosti meni! Lasketaan ensin kuulantyöntösektorin kaaren pituus `b_1=\frac{34,92^{\circ}}{360^{\circ}}2\pi 25\approx 15,2367`.
+Ringistä huomioidaan vain ulkokaaren pituus, joka myöskin voidaan ajatella sektorina. Sektorin kulman suuruus on `360 ^{\circ}-34,92^{\circ}
+=325,08^{\circ}` joten kaaren pituus on `b_2=\frac{325,08^{\circ}}{360^{\circ}}2\pi 1,0675\approx 6,05669`. Jäljelle jäävät vielä kuulantyöntösektorin kyljet
+joiden pituudesta täytyy vähentää ringin sisään jäävä osuus eli säde, joten yhden kyljen pituus on `25-1,0675=23,9325`. 
+Yhteenlaskettuna nauhaa tarvitaan noin `15,2367+6,05669+2*23,9325=69,15839` eli pyöristettynä `69,16 \text{ m}`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+69.16
+// BYCODEBEGIN
+=
+// BYCODEEND

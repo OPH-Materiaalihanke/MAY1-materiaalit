@@ -1,0 +1,12 @@
+
+arithmetic
+ok_text Hienosti meni! Auki levitetystä kuutiosta nähdään, että lyhin matka `x` kulkee kahden tahkon poikki ja 
+etäisyys saadaan laskettua pythagoraan lauseella `x^2=1^2+2^2<=>x=sqrt(5).`
+
+f_nodes 2
+hide_expr
+only_no_yes_on
+sqrt(5)
+// BYCODEBEGIN
+=
+// BYCODEEND

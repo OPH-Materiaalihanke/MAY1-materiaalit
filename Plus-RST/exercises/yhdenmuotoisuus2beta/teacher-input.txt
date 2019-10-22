@@ -1,0 +1,12 @@
+
+arithmetic
+ok_text Hienosti meni! Kulmaa `beta` vastaava kulma on liilan kolmion toiseksi 
+suurin kulma, eli `beta=52,13^{\circ}`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+52.13
+// BYCODEBEGIN
+=
+// BYCODEEND

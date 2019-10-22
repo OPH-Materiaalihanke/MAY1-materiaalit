@@ -1,0 +1,2 @@
+Suoraan verrannollisuus
+-----------------------

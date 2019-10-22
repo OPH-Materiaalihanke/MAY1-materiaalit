@@ -1,0 +1,14 @@
+
+arithmetic
+ok_text Hienosti meni! Merkitään kysytyn kulman puolikasta kirjaimella `alpha`. 
+Aiemman tehtävän suorakulmaisesta kolmiosta saadaan `tan alpha = frac{17,25}{1,10}`
+jolloin `alpha approx 86,35 ^{\circ}`. Vaijerien välinen kulma on tällöin
+`2 alpha approx 173 ^{\circ}`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+173
+// BYCODEBEGIN
+=
+// BYCODEEND

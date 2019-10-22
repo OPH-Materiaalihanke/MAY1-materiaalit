@@ -1,0 +1,13 @@
+
+arithmetic
+ok_text Hienosti meni! Leijan pinta-ala `A_1` saadaan kahden osakolmion summana
+`A_1=2 * 1/2 *a^2 * sin 36^{\circ} approx 1,5388418`. Leijan pinta-ala on noin
+`1,539`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+1.539
+// BYCODEBEGIN
+=
+// BYCODEEND

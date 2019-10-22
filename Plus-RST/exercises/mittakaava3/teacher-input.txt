@@ -1,0 +1,16 @@
+
+arithmetic
+ok_text Hienosti meni! Mittakaava saadaan ratkaistua tekemällä jakolasku
+`frac{"pituus kartalla"}{"pituus luonnossa"}`. Jakolasku on suoritettava
+samoissa yksiköissä, joten muutetaan `1200 " km"` senttimetreiksi, eli
+`1200 " km"=120 000 000 " cm"`. Suoritetaan jakolasku: 
+`frac{25}{120 000 000}=frac{1}{4 800 000}`, jolloin saadaan vastaus. Kysytty
+mittakaava on `1:4 800 000`.
+
+f_nodes 3
+hide_expr
+only_no_yes_on
+1/4800000
+// BYCODEBEGIN
+=
+// BYCODEEND

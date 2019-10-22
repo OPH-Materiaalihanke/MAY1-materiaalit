@@ -1,0 +1,18 @@
+
+arithmetic
+ok_text Hienosti meni! Kun valitaan "Vihje"-painike aktiiviseksi, huomataan,
+että varjostettu alue muodostaa melkein ympyränsektorin. Huomataan myös, että
+sektorin ulkopuolelle jäävä osa voidaan siirtää sektorin sisään, jolloin 
+varjostettu alue todella muodostaa sektorin. Sektorin kulma on 
+`alpha=60^{\circ}`, koska kyseessä on tasasivuinen kolmio, ja sektorin säde on 
+`r=4`. Varjostettuja alueita on kolme, joten niiden yhteenlaskettu ala on
+`A=3*alpha/(360^{\circ}) pi r^2` `=3* (60^{\circ})/(360^{\circ})* pi r^2`
+`=3*1/6*pi r^2` `=r^2/2 pi` `=4^2/2 pi` `=8 pi`.
+
+f_nodes 3
+hide_expr
+only_no_yes_on
+8*pi
+// BYCODEBEGIN
+=
+// BYCODEEND

@@ -1,0 +1,12 @@
+
+arithmetic
+ok_text Hienosti meni! `2,6348 \text{ cm}^3*1,5\text{ g/cm}^2\approx 3,9522 \text{ g}` on yhden karkin massa. 
+Karkkien lukumäärä saadaan jakamalla koko pussin massa yhden karkin massalla, eli `frac{315\text{ g}}{3,9522 \text{ g}}\approx 80`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+80
+// BYCODEBEGIN
+=
+// BYCODEEND

@@ -1,0 +1,16 @@
+
+arithmetic
+ok_text Hienosti meni! Suhde säilyy mittakaavan muutoksissa, joten voimme 
+olettaa, että hypotenuusan pituus on `2`. Terävän kulman viereisen kateetin osan 
+pituus on silloin `frac{1}{cos 30^{\circ}}=2/sqrt(3)`. Koko kateetin pituus on
+`2 cos 30^{\circ}=sqrt(3)`. Kateetin toisen osan pituus on siten 
+`sqrt(3)-2/sqrt(3)` `=sqrt(3)(1-2/3)` `=1/sqrt(3)`. Kysytty suhde on siis 
+`1/sqrt(3) / 2/sqrt(3)=1/2`.
+
+f_nodes 3
+hide_expr
+only_no_yes_on
+1/2
+// BYCODEBEGIN
+=
+// BYCODEEND

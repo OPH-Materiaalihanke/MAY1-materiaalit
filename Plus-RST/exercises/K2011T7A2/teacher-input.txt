@@ -1,0 +1,13 @@
+
+arithmetic
+ok_text Hienosti meni! Nuolen pinta-ala `A_2` saadaan kahden osakolmion summana
+`A_2=2 * 1/2 *1^2 * sin 108^{\circ} approx 0,9510565`. Nuolen pinta-ala on noin
+`0,951`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+0.951
+// BYCODEBEGIN
+=
+// BYCODEEND

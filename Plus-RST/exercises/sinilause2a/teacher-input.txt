@@ -1,0 +1,14 @@
+
+arithmetic
+ok_text Hienosti meni! Ratkaistaan sivun pituus sinilausella, 
+`frac{a}{sin alpha}=frac{b}{sin beta}`, jolloin saadaan 
+`b=frac{a sin beta}{sin alpha}`. Sijoitetaan annetut arvot lausekkeeseen, 
+jolloin saadaan `b=4,2`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+4.2
+// BYCODEBEGIN
+=
+// BYCODEEND

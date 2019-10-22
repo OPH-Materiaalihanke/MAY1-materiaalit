@@ -1,0 +1,18 @@
+
+arithmetic
+ok_text Hienosti meni! Muutetaan ensin lammen pinta-ala `2,8 " ha"` 
+neliösenttimetreiksi, jotta saadaan vastaus suoraan oikeassa yksikössä. Saadaan
+siis `2,8 " ha"=280000000 " cm"^2`. Merkitään kysyttyä pinta-alaa kirjaimella 
+`x`. Muodostetaan verranto mittakaavasta ja lammen pinta-alasta: 
+`(1/20000)^2=1/400000000=x/280000000`. Kerrotaan ristiin, jolloin saadaan 
+`400000000x=280000000`. 
+Jaetaan luvulla `400000000`, jolloin saadaan `x=280000000/400000000=0,7`.
+Lammen pinta-ala kartalla on `0,7 " cm"^2`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+0.7
+// BYCODEBEGIN
+=
+// BYCODEEND

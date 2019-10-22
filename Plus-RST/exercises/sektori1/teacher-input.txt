@@ -1,0 +1,13 @@
+
+equation A=%%al%%/360*pi*%%r%%^2 ends
+ok_text Hienosti meni! Sektorin pinta-ala lasketaan kaavalla `A=alpha/360^{\circ} pi r^2`.
+Sijoitetaan tähän annetut arvot, jolloin saadaan `A=%%al%%/360*pi*%%r%%^2`
+`=%%k%%/360 * pi`
+
+f_nodes 7
+hide_expr
+only_no_yes_on
+A=%%al%%/360*pi*%%r%%^2
+// BYCODEBEGIN
+<=> A=
+// BYCODEEND

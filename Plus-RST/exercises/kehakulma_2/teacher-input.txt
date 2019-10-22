@@ -1,0 +1,12 @@
+
+arithmetic
+ok_text Hienosti meni! Kyseessä on ympyrän keskuskulma `alpha` ja sitä vastaava kehäkulma, jonka suuruus tiedetään.
+Kehäkulman suuruus on aina puolet sitä vastaavan keskuskulman suuruudesta, eli `alpha=2*27^{\circ}=54^{\circ}`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+54
+// BYCODEBEGIN
+=
+// BYCODEEND

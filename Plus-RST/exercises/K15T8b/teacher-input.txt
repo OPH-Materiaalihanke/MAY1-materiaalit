@@ -1,0 +1,16 @@
+
+arithmetic
+ok_text Loistavaa! Käytetään vihjeen kuvan merkintöjä. Öljyn syvyys on `h=40\text{ cm}`. Nyt siis `a=r-h=65\text{ cm}-40\text{ cm}=25\text{ cm}`.
+Pituus `b` saadaan Pythagoraan lauseella, sillä `a^2+b^2=r^2<=>b=r^2-a^2<=>b=60\text{ cm}`. 
+Öljysegmentin poikkileikkauksen pinta-alan selvittämiseen tarvitaan sektorin ja keskuskolmion pinta-alat. 
+`A_{keskuskolmio}=frac{1}{2}*2b*a=1500\text{ cm}^2=15\text{ dm}^2`. Kulma `phi` voidaan selvittää esimerkiksi sinin avulla:
+`sin(phi)=frac{b}{r}<=>phi\approx 67,3801^{\circ}`. Sektorin pinta-ala on siis `A_{sek}=frac{2*67,3801^{\circ}}{360}*pi*65^2=4968,622`.
+Siis `A_{seg}=A_{sek}-A_{keskuskolmio}=34,6862 \text{ dm}^2`. Öljyn tilavuus on `A_{seg}*`säiliön pituus`=34,6862*22,6=783,84` eli noin `784` litraa.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+784
+// BYCODEBEGIN
+=
+// BYCODEEND

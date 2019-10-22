@@ -1,0 +1,4 @@
+.. _yhdenmuotoisuus-teht:
+
+Yhdenmuotoisuus
+---------------

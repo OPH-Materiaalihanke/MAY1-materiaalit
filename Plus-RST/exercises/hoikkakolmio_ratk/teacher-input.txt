@@ -1,0 +1,18 @@
+
+arithmetic
+ok_text Hienosti meni! Kahden kolmion pinta-alat ovat samoja, jos niiden kannat
+ovat yhtä pitkät ja niiden korkeudet ovat yhtä pitkät. Kolmion
+pinta-ala pysyy siis koko ajan samana, vaikka kärkipiste siirtyy. Kun kärkipiste
+raahataan aivan alareunaan, saadaan suorakulmainen kolmio, jonka pinta-ala on
+helppo laskea. Pienen neliön sivun pituus on `sqrt(5)`, jolloin kolmion kannan 
+pituus on Pythagoraan lauseen mukaan `sqrt(10)`. Keskikokoisen neliön sivun 
+pituus on `2 sqrt(5)`, jolloin kolmion korkeus on `sqrt(40)` `=2 sqrt(10)`. 
+Kolmion pinta-ala on siis `1/2 * sqrt(10) * 2 sqrt(10)=10`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+10
+// BYCODEBEGIN
+=
+// BYCODEEND

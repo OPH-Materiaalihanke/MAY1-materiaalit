@@ -1,0 +1,13 @@
+
+arithmetic
+ok_text Hienosti meni! Suorakulmaisen särmiön avaruuslävistäjän pituus voidaan
+laskea kaavalla `a=sqrt(x^2+y^2+z^2)`. Sijoitetaan annetut arvot kaavaan, jolloin
+saadaan `a=sqrt(%%x%%^2+%%y%%^2+%%z%%^2)` `=sqrt(%%a%%)`.
+
+f_nodes 4
+hide_expr
+only_no_yes_on
+sqrt(%%x%%^2+%%y%%^2+%%z%%^2)
+// BYCODEBEGIN
+=
+// BYCODEEND

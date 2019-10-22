@@ -1,0 +1,13 @@
+
+arithmetic
+ok_text Hienosti meni! Nyt `150 \text{ m}` on ympyrän kehän pituus, eli `2\pi r=150`. 
+Säde on siis `\frac{150}{2\pi}` ja edelleen pinta-ala saadaan laskettua sijoittamalla säde kaavaan
+`A=\pi r^2` eli `A=1790,49311` eli pyöristettynä `1790 \text{ m}^2`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+1790
+// BYCODEBEGIN
+=
+// BYCODEEND

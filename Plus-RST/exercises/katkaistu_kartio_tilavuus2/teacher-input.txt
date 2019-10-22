@@ -1,0 +1,13 @@
+
+arithmetic
+ok_text Hienosti meni! Koska kartiot ovat yhdenmuotoisia, kaikki sen pituudet ovat `frac{1}{4}` ison kartion pituuksista, siispä
+pikkukartion säde on `frac{r}{4}`. Lasketaan sitten kartioiden tilavuudet:
+`V_i=frac{pi*r^2*h}{3}` ja `V_p=frac{pi*(frac{r}{4})^2*frac{h}{4}}{3}=frac{pi*r^2*h}{192}`. Suhde `frac{V_i}{V_p}` on siis `64`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+64
+// BYCODEBEGIN
+=
+// BYCODEEND

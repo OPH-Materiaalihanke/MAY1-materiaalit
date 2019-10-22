@@ -1,0 +1,13 @@
+
+arithmetic
+ok_text Hienosti meni! Yhdellä pyörähdyksellä pyörä kulkee siis `60 pi " cm"`.
+Kierrosten määrä saadaan `frac{20000 " cm"}{60 pi " cm"} = 106,103`. Pyörä
+pyörähtää noin `106` kierrosta.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+106
+// BYCODEBEGIN
+=
+// BYCODEEND

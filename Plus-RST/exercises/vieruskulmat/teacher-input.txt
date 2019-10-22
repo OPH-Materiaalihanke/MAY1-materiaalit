@@ -1,0 +1,15 @@
+
+arithmetic
+ok_text Hienosti meni! Kolmio `PDC` on tasakylkinen, joten myös kulma `\angle CPD=\alpha`. 
+Koska kolmion yhden kulman vieruskulma on kolmion kahden muun kulman summa, saadaan `\angle PCB=2\alpha`. (Voidaan ajatella myös `180-(180-alpha-alpha)=2alpha)`.
+Koska myös `PB` on ympyrän säde, on kolmio `PCB` tasakylkinen, eli `\angle PBC=2\alpha`. 
+Tästä edelleen voidaan päätellä, että `2\alpha+2\alpha+\angle BPC = \alpha +\angle BPC+ 69^{\circ}`. Siis `\alpha=23^{\circ}.`
+
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+23
+// BYCODEBEGIN
+=
+// BYCODEEND

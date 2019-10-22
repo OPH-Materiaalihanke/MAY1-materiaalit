@@ -1,0 +1,17 @@
+
+arithmetic
+ok_text Hienosti meni! Kun nuolen `216^{\circ}` kärki yhdistetään vastakkaiseen
+kärkeen, nuoli jakautuu kahteen yhteneväiseen tasakylkiseen kolmioon, joissa
+kantakulmat ovat `36^{\circ}` ja kärkikulma `108^{\circ}`. Kannan pituudelle `d`
+saadaan sinilauseesta yhtälö `frac{d}{sin 108^{\circ}}=frac{1}{sin 36^{\circ}}`,
+jonka ratkaisu on `d=frac{sin 108^{\circ}}{sin 36^{\circ}}` 
+`=frac{sin 72^{\circ}}{sin 36^{\circ}}` ` approx 1,618034`. Sivun `d` pituus 
+on noin `1,618`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+1.618
+// BYCODEBEGIN
+=
+// BYCODEEND

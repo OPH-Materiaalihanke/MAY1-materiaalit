@@ -1,0 +1,18 @@
+
+arithmetic
+ok_text Hienosti meni! Alkurasti, sijainti rastiväliviivalla `600 " m"` päästä 
+ja suunnistajan todellinen sijainti `600 " m"` päästä muodostavat tasakylkisen
+kolmion, jonka kyljet ovat `600 " m"` ja jonka kannan pituus on kysytty etäisyys.
+Merkitään kylkien pituuksia `a=600` ja kysyttyä kannan pituutta kirjaimella 
+`x`. Kylkien välinen kulma `alpha = 9^{\circ}`. Kannan pituus voidaan määrittää
+esimerkiksi kosinilauseella: `x^2=a^2+a^2-2*a*a*cos (9^{\circ})` 
+`<=> x=sqrt(2*600^2*(1-cos(9^{\circ}))` `<=> x=94,15`. Suunnistaja on siis 
+`94,15 " m"` etäisyydellä oikeasta paikasta.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+94.15
+// BYCODEBEGIN
+=
+// BYCODEEND

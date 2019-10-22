@@ -1,0 +1,13 @@
+
+equation al=30 ends
+ok_text Hienosti meni! Vastaus saadaan muistikolmioiden avulla: 
+`sqrt(3) tan alpha -1 = 0` `<=> sqrt(3) tan alpha = 1` 
+`<=> tan alpha = 1/sqrt(3)` `<=> alpha = 30^{\circ}`.
+
+f_nodes 3
+hide_expr
+only_no_yes_on
+al=30
+// BYCODEBEGIN
+<=> al=
+// BYCODEEND

@@ -1,0 +1,12 @@
+
+arithmetic
+ok_text Hienosti meni! Yhdenmuotoisuussuhde saadaan ottamalla vastinpituuksien
+jakolaskun kuutio, eli `(frac{20 " cm"}{70 " cm"})^3=(2/7)^3=8/343`.
+
+f_nodes 3
+hide_expr
+only_no_yes_on
+8/343
+// BYCODEBEGIN
+=
+// BYCODEEND

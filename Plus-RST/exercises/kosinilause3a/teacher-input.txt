@@ -1,0 +1,13 @@
+
+arithmetic
+ok_text Hienosti meni! Kosinilauseen mukaisesti 
+`a^2=3^2+2^2-2*3*2* cos (30^{\circ})` `<=> a^2 = 13-6 sqrt(3)`
+`<=> a = sqrt(13-6 sqrt(3))`.
+
+f_nodes 12
+hide_expr
+only_no_yes_on
+sqrt(13-6*sqrt(3))
+// BYCODEBEGIN
+=
+// BYCODEEND

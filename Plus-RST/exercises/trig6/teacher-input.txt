@@ -1,0 +1,12 @@
+
+arithmetic
+ok_text Hienosti meni! Kuvan merkinnöillä `tan beta = b/c`, eli 
+`tan beta=1/1`.
+
+f_nodes 3
+hide_expr
+only_no_yes_on
+1/1
+// BYCODEBEGIN
+=
+// BYCODEEND

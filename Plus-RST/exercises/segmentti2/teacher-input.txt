@@ -1,0 +1,16 @@
+
+arithmetic
+ok_text Hienosti meni! Koska annettu keskuskulma on suurempi kuin `180^{\circ}`,
+käytetään kaavassa yhteenlaskua. Sijoitetaan kaavaan 
+`A=frac{alpha}{360^{\circ}} pi r^2 + frac{r^2}{2} sin (alpha)` annetut arvot,
+jolloin saadaan 
+`A=frac{300^{\circ}}{360^{\circ}} pi 3^2 + frac{3^2}{2} sin (300^{\circ})
+=19,66`. Segmentin pinta-ala on noin `19,7`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+19.7
+// BYCODEBEGIN
+=
+// BYCODEEND

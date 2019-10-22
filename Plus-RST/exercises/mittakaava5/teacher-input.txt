@@ -1,0 +1,14 @@
+
+arithmetic
+ok_text Hienosti meni! Mittakaava voidaan laskea suhteena
+`frac{"pituus kirjassa"}{"oikea pituus"}`. Koska annetut pituudet ovat samassa 
+yksikössä, ne voidaan sijoittaa suoraan jakolaskuun: `12/3=4`. Kysytty 
+mittakaava on `4:1`.
+
+f_nodes 3
+hide_expr
+only_no_yes_on
+4
+// BYCODEBEGIN
+=
+// BYCODEEND

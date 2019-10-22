@@ -1,0 +1,16 @@
+
+arithmetic
+ok_text Loistavaa! Poistettu osa koostuu suorasta ympyrälieriöstä ja kahdesta pallosegmentistä. Käytetään samoja merkintöjä kuin vihjeen kuvassa.
+Tiedetään, että lieriön säde `r=1` ja omenan säde `R=5`. Pythagoraan lauseella saadaan lieriön korkeuden puolikas `x` selvitettyä, sillä
+`r^2+x^2=R^2<=>x=sqrt(5^2-1^2)=2sqrt(6)`. lieriön korkeus on siis `2*x=4sqrt(6)` ja nyt saadaan lieriön tilavuudeksi `V_{\text{lieriö}}=pi*1^2*4sqrt(6)=pi4sqrt(6)`.
+Pallosegmentin korkeus `h` on `5-2sqrt(6)` ja yhden segmentin tilavuus saadaan segmentin tilavuuden kaavalla eli 
+`V_{seg}=pi*h^2(r-frac{h}{3})`, johon sijoittamalla `r` ja `h` saadaan vastaukseksi `0,03098.` Koko poistetun osan tilavuus on siis `V_{\text{lieriö}}+2*V_{seg}=30,84...`
+Tämän osuus koko omenan tilavuudesta, joka on `frac{4*pi*5^3}{3}=frac{500pi}{3}`, on noin `0,0589` eli pyöristettynä `5,9 %.`
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+5.9
+// BYCODEBEGIN
+=
+// BYCODEEND

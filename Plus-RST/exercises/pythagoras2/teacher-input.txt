@@ -1,0 +1,15 @@
+
+arithmetic
+ok_text Hienosti meni! Merkitään kysyttyä kateetin pituutta muuttujalla `x`. 
+Koska kyseessä on suorakulmainen kolmio, voidaan käyttää Pythagoraan lausetta.
+Saadaan yhtälö `2^2+x^2=5^2 <=> 4+x^2=25`. Vähennetään puolittain luku `4` ja
+otetaan neliöjuuri, jolloin saadaan `x=sqrt(25-4)=sqrt(21)`. Kysytyn kateetin
+pituus on `sqrt(21)`.
+
+f_nodes 2
+hide_expr
+only_no_yes_on
+sqrt(5^2-2^2)
+// BYCODEBEGIN
+=
+// BYCODEEND

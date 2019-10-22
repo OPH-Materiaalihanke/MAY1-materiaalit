@@ -1,0 +1,14 @@
+
+arithmetic
+ok_text Hienosti meni! Kaukalo on suora särmiö. Jos päätykolmion pinta-ala on `A`, niin 
+kaukalon tilavuus `V_k=Ab`. Jäljelle jäänyt vesi muodostaa kolmisivuisen pyramidin, jonka 
+tilavuus `V_v=frac{Ab}{3}`. Poistuneen veden tilavuus on siten `V_k-V_v=frac{2}{3}Ab=frac{2}{3}V_k.`
+Pois valunut osuus on siis `frac{2}{3}` koko määrästä, eli noin `67 %.`
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+67
+// BYCODEBEGIN
+=
+// BYCODEEND

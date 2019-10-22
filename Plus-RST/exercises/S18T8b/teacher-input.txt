@@ -1,0 +1,15 @@
+
+arithmetic
+ok_text Hienosti meni! Kuusikulmioon liittyvän tasasivuisen kolmion korkeus
+`h` toteuttaa `h^2+(1/2)^2=1`, joten `h=sqrt(3)/2`. 12-kulmion sivun pituudelle
+`s` pätee `(1/2)^2(1-h)^2=s^2`, joten `s=sqrt(2-sqrt(3))` ja piiriksi saadaan
+`12s=12 sqrt(2-sqrt(3))`. Suhteellinen virhe on 
+`frac{12 sqrt(2-sqrt(3))-2 pi}{2 pi} approx -0,011`.
+
+f_nodes 6
+hide_expr
+only_no_yes_on
+-0.011
+// BYCODEBEGIN
+=
+// BYCODEEND

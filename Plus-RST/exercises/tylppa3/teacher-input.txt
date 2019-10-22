@@ -1,0 +1,12 @@
+
+arithmetic
+ok_text Hienosti meni! Sinin arvo luetaan yksikköympyrän kehän pisteen 
+`y`-koordinaatista, joten `sin (70,6^{\circ})=0,94`.
+
+f_nodes 4
+hide_expr
+only_no_yes_on
+0.94
+// BYCODEBEGIN
+=
+// BYCODEEND

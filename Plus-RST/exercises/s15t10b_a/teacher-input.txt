@@ -1,0 +1,18 @@
+
+equation a=3 ends
+ok_text Hienosti meni! Merkitään aritmeettisen jonon differenssiä kirjaimella `d`.
+Tällöin jono on `b-d`, `b`, `b+d`. Pythagoraan lauseen mukaan `a^2+b^2=c^2`. 
+Sijoitetaan tähän `a=b-d` ja `c=b+d`, jolloin saadaan 
+`(b-d)^2+b^2=(b+d)^2` `<=> b^2-2bd+d^2+b^2=b^2+2bd+d^2` `<=> b^2 -4bd=0` `<=> b(b-4d)=0`.
+Tulon nollasäännön mukaan `b=0` tai `b-4d=0`. Ensimmäinen vaihtoehto ei kelpaa, 
+joten `b=4d`. Jono on tällöin `3d`, `4d`, `5d` (sillä `a=b-d=4d-d=3d` ja 
+`c=b+d=4d+d=5d`). Suhde `a:b:c=3:4:5`, jolloin oikeat vastaukset ovat `a=3`,
+`b=4` ja `c=5`.
+
+f_nodes 3
+hide_expr
+only_no_yes_on
+a=3
+// BYCODEBEGIN
+<=> a=
+// BYCODEEND

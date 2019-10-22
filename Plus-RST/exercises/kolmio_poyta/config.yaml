@@ -1,0 +1,23 @@
+---
+title: kolmio_poyta
+max_points: 2
+instructions: |
+  <p>  </p>
+  <p>
+    <iframe src="../_static/ggframe.html" id="kolmio_poyta_frame" onload="postMsg();" width="1000" height="600" frameborder="0"></iframe>
+    <script type="text/javascript">
+      function postMsg() {
+        var kolmio_poytaFrame = document.getElementById("kolmio_poyta_frame");        kolmio_poytaFrame.contentWindow.postMessage( 'A = (-4, -2) \n B: (1, 3) \n C: (3, 0) \n SetFixed(A,true) \n SetFixed(B,true) \n SetFixed(C,true) \n k1: Polygon[A, B, C] \n c: Segment[A, B, k1] \n a: Segment[B, C, k1] \n b: Segment[C, A, k1] \n ShowLabel(A,false) \n ShowLabel(B,false) \n ShowLabel(C,false)' + '´´´' + '{"language" : "fi", "appName" : "geometry", "showToolbar" : true, "showAlgebraInput" : true, "allowStyleBar" : true}' , '*');
+        document.getElementById("kolmio_poyta_id").style.display = "none";
+      };
+    </script>
+  </p>
+view_type: access.types.stdasync.acceptPost 
+fields: # näiden täytyy olla valideja HTML-formien attribuutteja
+  - name: kolmio_poyta
+    required: True
+
+container:
+  image: apluslms/grade-nodejs:11-2.7
+  mount: exercises/geogebra-example
+  cmd: /exercise/run.sh ggb-element

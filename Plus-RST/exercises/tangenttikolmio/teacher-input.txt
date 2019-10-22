@@ -1,0 +1,13 @@
+
+arithmetic
+ok_text Hienosti meni!  Voidaan helposti osoittaa, että tangenttikulman kärki on aina yhtä etäällä 
+molemmista tangenttipisteistä, eli samaan tapaan kuin |DC|=|EC|, voidaan myös todeta, 
+että ` |AD|=|AF| ` ja `|BE|=|BF|`. Siis kolmion ABC piiri on `(10-|AD|)+|AD|+|BF|+(10-|BF|)=20`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+20
+// BYCODEBEGIN
+=
+// BYCODEEND

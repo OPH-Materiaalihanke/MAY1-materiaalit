@@ -1,0 +1,591 @@
+categories:
+  chapter:
+    name: chapter
+    status: nototal
+end: 2020-06-06 12:00
+language: fi
+modules:
+- children:
+  - category: chapter
+    children: []
+    key: MAY1_Luvut_ja_yhtälöt
+    name: MAY1 Luvut ja yhtälöt
+    static_content: may1-sisalto/MAY1_Luvut_ja_yhtälöt.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Ryhmän_valinta_(pilotointia_varten)
+    name: Ryhmän valinta (pilotointia varten)
+    static_content: may1-sisalto/Ryhmän_valinta_(pilotointia_varten).html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Kurssin_tavoitteet_ja_keskeiset_sisällöt
+    name: Kurssin tavoitteet ja keskeiset sisällöt
+    static_content: may1-sisalto/Kurssin_tavoitteet_ja_keskeiset_sisällöt.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Teoria
+    name: Teoria
+    static_content: may1-sisalto/Teoria.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Tehtävät
+    name: Tehtävät
+    static_content: may1-sisalto/Tehtävät.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: MathCheck-tehtävät
+    name: MathCheck-tehtävät
+    static_content: may1-sisalto/MathCheck-tehtävät.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: GeoGebra-tehtävät
+    name: GeoGebra-tehtävät
+    static_content: may1-sisalto/GeoGebra-tehtävät.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Monivalintatehtävät
+    name: Monivalintatehtävät
+    static_content: may1-sisalto/Monivalintatehtävät.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Abitti-editori
+    name: Abitti-editori
+    static_content: may1-sisalto/Abitti-editori.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Tehtäväsivut
+    name: Tehtäväsivut
+    static_content: may1-sisalto/Tehtäväsivut.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Lisämateriaalia
+    name: Lisämateriaalia
+    static_content: may1-sisalto/Lisämateriaalia.html
+    status: ready
+    use_wide_column: true
+  close: 2020-06-06 12:00
+  key: may1-sisalto
+  name: MAY1_Luvut_ja_yhtälöt
+  open: 2016-06-01 12:00
+  points_to_pass: 0
+  status: ready
+- children:
+  - category: chapter
+    children: []
+    key: Luvut_ja_laskutoimitukset
+    name: Luvut ja laskutoimitukset
+    static_content: may1-luvut-ja-laskutoimitukset-teoria-2-6/Luvut_ja_laskutoimitukset.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Lukualueet
+    name: Lukualueet
+    static_content: may1-luvut-ja-laskutoimitukset-teoria-2-6/Lukualueet.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Laskulait
+    name: Laskulait
+    static_content: may1-luvut-ja-laskutoimitukset-teoria-2-6/Laskulait.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Itseisarvo
+    name: Itseisarvo
+    static_content: may1-luvut-ja-laskutoimitukset-teoria-2-6/Itseisarvo.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Murtoluvut
+    name: Murtoluvut
+    static_content: may1-luvut-ja-laskutoimitukset-teoria-2-6/Murtoluvut.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children:
+    - category: chapter
+      children: []
+      key: Luvut_ja_laskutoimitukset-_tehtäviä
+      name: 'Luvut ja laskutoimitukset: tehtäviä'
+      static_content: may1/Luvut_ja_laskutoimitukset-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Lukualueet-_tehtäviä
+      name: 'Lukualueet: tehtäviä'
+      static_content: may1/Lukualueet-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Laskulait-_tehtäviä
+      name: 'Laskulait: tehtäviä'
+      static_content: may1/Laskulait-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Itseisarvo-_tehtäviä
+      name: 'Itseisarvo: tehtäviä'
+      static_content: may1/Itseisarvo-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Murtoluvut-_tehtäviä
+      name: 'Murtoluvut: tehtäviä'
+      static_content: may1/Murtoluvut-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    key: index
+    name: Luvut_ja_laskutoimitukset-_tehtäviä
+    static_content: may1/index.html
+    status: ready
+    use_wide_column: true
+  close: 2020-06-06 12:00
+  key: may1-luvut-ja-laskutoimitukset-teoria-2-6
+  name: Luvut_ja_laskutoimitukset
+  open: 2016-06-01 12:00
+  points_to_pass: 0
+  status: ready
+- children:
+  - category: chapter
+    children: []
+    key: Yhtälö
+    name: Yhtälö
+    static_content: may1-yhtalot-3-6/Yhtälö.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Peruskäsitteitä
+    name: Peruskäsitteitä
+    static_content: may1-yhtalot-3-6/Peruskäsitteitä.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Ensimmäisen_asteen_yhtälö
+    name: Ensimmäisen asteen yhtälö
+    static_content: may1-yhtalot-3-6/Ensimmäisen_asteen_yhtälö.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Yhtälö_sovelluksissa
+    name: Yhtälö sovelluksissa
+    static_content: may1-yhtalot-3-6/Yhtälö_sovelluksissa.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Yhtälöpari
+    name: Yhtälöpari
+    static_content: may1-yhtalot-3-6/Yhtälöpari.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children:
+    - category: chapter
+      children: []
+      key: Yhtälö-_tehtäviä
+      name: 'Yhtälö: tehtäviä'
+      static_content: may1-yhtalot-tehtavat-3-6/Yhtälö-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Peruskäsitteitä-_tehtäviä
+      name: 'Peruskäsitteitä: tehtäviä'
+      static_content: may1-yhtalot-tehtavat-3-6/Peruskäsitteitä-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Ensimmäisen_asteen_yhtälö-_tehtäviä
+      name: 'Ensimmäisen asteen yhtälö: tehtäviä'
+      static_content: may1-yhtalot-tehtavat-3-6/Ensimmäisen_asteen_yhtälö-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Yhtälö_sovelluksissa-_tehtäviä
+      name: 'Yhtälö sovelluksissa: tehtäviä'
+      static_content: may1-yhtalot-tehtavat-3-6/Yhtälö_sovelluksissa-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Yhtälöpari-_tehtäviä
+      name: 'Yhtälöpari: tehtäviä'
+      static_content: may1-yhtalot-tehtavat-3-6/Yhtälöpari-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    key: index
+    name: Yhtälö-_tehtäviä
+    static_content: may1-yhtalot-tehtavat-3-6/index.html
+    status: ready
+    use_wide_column: true
+  close: 2020-06-06 12:00
+  key: may1-yhtalot-3-6
+  name: Yhtälö
+  open: 2016-06-01 12:00
+  points_to_pass: 0
+  status: ready
+- children:
+  - category: chapter
+    children: []
+    key: Verrannollisuus_ja_prosenttilaskenta
+    name: Verrannollisuus ja prosenttilaskenta
+    static_content: may1-prosenttilaskenta-teoria-4-6/Verrannollisuus_ja_prosenttilaskenta.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Suoraan_verrannollisuus
+    name: Suoraan verrannollisuus
+    static_content: may1-prosenttilaskenta-teoria-4-6/Suoraan_verrannollisuus.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Kääntäen_verrannollisuus
+    name: Kääntäen verrannollisuus
+    static_content: may1-prosenttilaskenta-teoria-4-6/Kääntäen_verrannollisuus.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Prosentti
+    name: Prosentti
+    static_content: may1-prosenttilaskenta-teoria-4-6/Prosentti.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Muutos-_ja_vertailuprosentti
+    name: Muutos- ja vertailuprosentti
+    static_content: may1-prosenttilaskenta-teoria-4-6/Muutos-_ja_vertailuprosentti.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Muuttuneen_arvon_laskeminen
+    name: Muuttuneen arvon laskeminen
+    static_content: may1-prosenttilaskenta-teoria-4-6/Muuttuneen_arvon_laskeminen.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Prosenttilausekkeita_ja_-yhtälöitä
+    name: Prosenttilausekkeita ja -yhtälöitä
+    static_content: may1-prosenttilaskenta-teoria-4-6/Prosenttilausekkeita_ja_-yhtälöitä.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children:
+    - category: chapter
+      children: []
+      key: Verrannollisuus_ja_prosenttilaskenta-_tehtäviä
+      name: 'Verrannollisuus ja prosenttilaskenta: tehtäviä'
+      static_content: may1-2-6/Verrannollisuus_ja_prosenttilaskenta-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Suoraan_verrannollisuus-_tehtäviä
+      name: 'Suoraan verrannollisuus: tehtäviä'
+      static_content: may1-2-6/Suoraan_verrannollisuus-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Kääntäen_verrannollisuus-_tehtäviä
+      name: 'Kääntäen verrannollisuus: tehtäviä'
+      static_content: may1-2-6/Kääntäen_verrannollisuus-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Prosentti-_tehtäviä
+      name: 'Prosentti: tehtäviä'
+      static_content: may1-2-6/Prosentti-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Muutos-_ja_vertailuprosentti-_tehtäviä
+      name: 'Muutos- ja vertailuprosentti: tehtäviä'
+      static_content: may1-2-6/Muutos-_ja_vertailuprosentti-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Muuttuneen_arvon_laskeminen-_tehtäviä
+      name: 'Muuttuneen arvon laskeminen: tehtäviä'
+      static_content: may1-2-6/Muuttuneen_arvon_laskeminen-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Prosenttilausekkeita_ja_-yhtälöitä-_tehtäviä
+      name: 'Prosenttilausekkeita ja -yhtälöitä: tehtäviä'
+      static_content: may1-2-6/Prosenttilausekkeita_ja_-yhtälöitä-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    key: index
+    name: Verrannollisuus_ja_prosenttilaskenta-_tehtäviä
+    static_content: may1-2-6/index.html
+    status: ready
+    use_wide_column: true
+  close: 2020-06-06 12:00
+  key: may1-prosenttilaskenta-teoria-4-6
+  name: Verrannollisuus_ja_prosenttilaskenta
+  open: 2016-06-01 12:00
+  points_to_pass: 0
+  status: ready
+- children:
+  - category: chapter
+    children: []
+    key: Potenssi_ja_juuri
+    name: Potenssi ja juuri
+    static_content: may1-potenssi-ja-juuri-teoria-5-6/Potenssi_ja_juuri.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Potenssi
+    name: Potenssi
+    static_content: may1-potenssi-ja-juuri-teoria-5-6/Potenssi.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Potenssin_laskusääntöjä
+    name: Potenssin laskusääntöjä
+    static_content: may1-potenssi-ja-juuri-teoria-5-6/Potenssin_laskusääntöjä.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Kymmenpotenssimuoto
+    name: Kymmenpotenssimuoto
+    static_content: may1-potenssi-ja-juuri-teoria-5-6/Kymmenpotenssimuoto.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Neliö-_ja_kuutiojuuri
+    name: Neliö- ja kuutiojuuri
+    static_content: may1-potenssi-ja-juuri-teoria-5-6/Neliö-_ja_kuutiojuuri.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Potenssiyhtälö
+    name: Potenssiyhtälö
+    static_content: may1-potenssi-ja-juuri-teoria-5-6/Potenssiyhtälö.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children:
+    - category: chapter
+      children: []
+      key: Potenssi_ja_juuri-Tehtävät
+      name: Potenssi ja juuri
+      static_content: may1-3-6-potenssi-ja-juuri/Potenssi_ja_juuri-Tehtävät.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Potenssi-Tehtävät
+      name: Potenssi
+      static_content: may1-3-6-potenssi-ja-juuri/Potenssi-Tehtävät.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Potenssin_laskusääntöjä-Tehtävät
+      name: Potenssin laskusääntöjä
+      static_content: may1-3-6-potenssi-ja-juuri/Potenssin_laskusääntöjä-Tehtävät.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Kymmenpotenssimuoto-Tehtävät
+      name: Kymmenpotenssimuoto
+      static_content: may1-3-6-potenssi-ja-juuri/Kymmenpotenssimuoto-Tehtävät.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Neliö-_ja_kuutiojuuri-Tehtävät
+      name: Neliö- ja kuutiojuuri
+      static_content: may1-3-6-potenssi-ja-juuri/Neliö-_ja_kuutiojuuri-Tehtävät.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Potenssiyhtälö-Tehtävät
+      name: Potenssiyhtälö
+      static_content: may1-3-6-potenssi-ja-juuri/Potenssiyhtälö-Tehtävät.html
+      status: ready
+      use_wide_column: true
+    key: index
+    name: Potenssi_ja_juuri
+    static_content: may1-3-6-potenssi-ja-juuri/index.html
+    status: ready
+    use_wide_column: true
+  close: 2020-06-06 12:00
+  key: may1-potenssi-ja-juuri-teoria-5-6
+  name: Potenssi_ja_juuri
+  open: 2016-06-01 12:00
+  points_to_pass: 0
+  status: ready
+- children:
+  - category: chapter
+    children: []
+    key: Funktio
+    name: Funktio
+    static_content: may1-funktio-6-6/Funktio.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Funktion_määritelmä
+    name: Funktion määritelmä
+    static_content: may1-funktio-6-6/Funktion_määritelmä.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Funktion_nollakohta
+    name: Funktion nollakohta
+    static_content: may1-funktio-6-6/Funktion_nollakohta.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Funktion_kuvaaja
+    name: Funktion kuvaaja
+    static_content: may1-funktio-6-6/Funktion_kuvaaja.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Funktion_kuvaajan_tulkinta
+    name: Funktion kuvaajan tulkinta
+    static_content: may1-funktio-6-6/Funktion_kuvaajan_tulkinta.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Potenssifunktio
+    name: Potenssifunktio
+    static_content: may1-funktio-6-6/Potenssifunktio.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children: []
+    key: Funktion_sovelluksia
+    name: Funktion sovelluksia
+    static_content: may1-funktio-6-6/Funktion_sovelluksia.html
+    status: ready
+    use_wide_column: true
+  - category: chapter
+    children:
+    - category: chapter
+      children: []
+      key: Funktio-_tehtäviä
+      name: 'Funktio: tehtäviä'
+      static_content: may1-funktio-tehtavat-6-6/Funktio-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Funktion_määritelmä-_tehtäviä
+      name: 'Funktion määritelmä: tehtäviä'
+      static_content: may1-funktio-tehtavat-6-6/Funktion_määritelmä-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Funktion_nollakohta-_tehtäviä
+      name: 'Funktion nollakohta: tehtäviä'
+      static_content: may1-funktio-tehtavat-6-6/Funktion_nollakohta-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Funktion_kuvaaja-_tehtäviä
+      name: 'Funktion kuvaaja: tehtäviä'
+      static_content: may1-funktio-tehtavat-6-6/Funktion_kuvaaja-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: src-_http---users-jyu-fi-~vesal-kurssit-ohj2-moniste-dna-jpg
+      name: 'src: http://users.jyu.fi/~vesal/kurssit/ohj2/moniste/dna.jpg'
+      static_content: may1-funktio-tehtavat-6-6/src-_http---users-jyu-fi-~vesal-kurssit-ohj2-moniste-dna-jpg.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Funktion_kuvaajan_tulkinta-_tehtäviä
+      name: 'Funktion kuvaajan tulkinta: tehtäviä'
+      static_content: may1-funktio-tehtavat-6-6/Funktion_kuvaajan_tulkinta-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Potenssifunktio-_tehtäviä
+      name: 'Potenssifunktio: tehtäviä'
+      static_content: may1-funktio-tehtavat-6-6/Potenssifunktio-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    - category: chapter
+      children: []
+      key: Funktion_sovelluksia-_tehtäviä
+      name: 'Funktion sovelluksia: tehtäviä'
+      static_content: may1-funktio-tehtavat-6-6/Funktion_sovelluksia-_tehtäviä.html
+      status: ready
+      use_wide_column: true
+    key: index
+    name: Funktio-_tehtäviä
+    static_content: may1-funktio-tehtavat-6-6/index.html
+    status: ready
+    use_wide_column: true
+  close: 2020-06-06 12:00
+  key: may1-funktio-6-6
+  name: Funktio
+  open: 2016-06-01 12:00
+  points_to_pass: 0
+  status: ready
+name: 1   MAY1 - Algebra
+start: 2016-06-01 12:00
+static_dir: _build/html

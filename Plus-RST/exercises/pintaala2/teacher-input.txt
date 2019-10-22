@@ -1,0 +1,16 @@
+
+arithmetic
+ok_text Hienosti meni! Muutetaan ensin pellon pinta-ala kartalla `25 " cm"^2` 
+hehtaareiksi, jotta saadaan vastaus suoraan oikeassa yksikössä. Saadaan
+siis `25 " cm"^2=0,00000025 " ha"`. Merkitään kysyttyä pinta-alaa kirjaimella 
+`x`. Muodostetaan verranto mittakaavasta ja pellon pinta-alasta: 
+`(1/15000)^2=1/225000000=0,00000025/x`. Kerrotaan ristiin, jolloin saadaan 
+`x=225000000*0,00000025=56,25`. Pellon pinta-ala on noin `56 " ha"`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+56
+// BYCODEBEGIN
+=
+// BYCODEEND

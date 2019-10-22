@@ -1,0 +1,13 @@
+
+arithmetic
+ok_text Hienosti meni! Puolisuunnikkaan pinta-ala lasketaan kaavalla 
+`frac{a+b}{2}h`. Nyt `a=%%a%%`, `b=%%b%%` ja `h=%%h%%`, jolloin 
+`A=frac{ %%a%% + %%b%% }{2} * %%h%% = %%vast%%`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+(%%a%%+%%b%%)/2*%%h%%
+// BYCODEBEGIN
+=
+// BYCODEEND

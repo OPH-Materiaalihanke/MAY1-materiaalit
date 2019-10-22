@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name=viewport content="width=device-width,initial-scale=1">
+        <title> GeoGebra </title>
+    <script src = "https://cdn.geogebra.org/apps/deployggb.js"></script>
+    <script>
+
+    function parseData(data) {
+      var parts = data.split("´´´");
+      var cmd = parts[0];
+      var par="";
+      if (parts.length>1)
+        par = parts[1];
+      console.log(cmd, par);
+      return [cmd, par];
+    }
+
+    window.onmessage = function(e)
+    {
+      // cmd and par as global variables
+      console.log("onmessage: ", e.data);
+      
+      var ggbData = parseData(e.data);
+
+      console.log(ggbData);
+      cmd = ggbData[0];
+      par = ggbData[1];
+      
+      var params = JSON.parse(par);
+
+
+      params["language"] = "fi";
+      params["width"] = window.innerWidth;
+      params["height"] = window.innerHeight-10;
+      params["appletOnLoad"] = initCommands;
+
+      initApplet(params);
+    };
+
+    function initCommands()
+    {
+      if(cmd)
+        ggbApplet.evalCommand(cmd);
+    }
+
+    function initApplet(params)
+    {
+      var ggbApplet = new GGBApplet(params, true);
+      ggbApplet.inject('ggb-element');
+    }
+
+    </script>
+  </head>
+  <body>
+    <div id="ggb-element"></div>
+  </body>
+</html>

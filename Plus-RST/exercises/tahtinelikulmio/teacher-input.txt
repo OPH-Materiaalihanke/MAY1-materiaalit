@@ -1,0 +1,20 @@
+
+arithmetic
+ok_text Hienosti meni! Määritetään ensin tasasivuisten kolmioiden korkeus.
+Sinisen neliön sivun pituus on `sqrt(12)=2 sqrt(3)`, jolloin kolmion korkeus
+saadaan ratkaistua Pythagoraan lauseella `h^2+(sqrt(3))^2=(sqrt(12))^2` 
+`<=> h^2=9` `<=> h = 3`. Nyt punaisen neliön halkaisija `x` on `x=3+2 sqrt(3)+3`
+`=6+2 sqrt(3)`. Ratkaistaan punaisen neliön sivun pituus `y` Pythagoraan lauseella
+`y^2+y^2=x^2` `<=> 2y^2=(6+2 sqrt(3))^2` `<=> y^2=24+12 sqrt(3)`. 
+Punaisten alueiden pinta-ala saadaan laskettua vähentämällä punaisen neliön
+pinta-alasta `y^2` sinisen neliön pinta-ala `A_n=12` ja sinisten kolmioiden 
+pinta-ala `A_k`. Sinisen kolmion pinta-ala on `A_k=(2 sqrt(3)*3)/2=3 sqrt(3)`. Eli
+`A_p=y^2-A_n-4A_k` `=24 + 12 sqrt(3) - 12 - 12 sqrt(3)` `=12`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+12
+// BYCODEBEGIN
+=
+// BYCODEEND

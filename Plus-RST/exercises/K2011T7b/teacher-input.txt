@@ -1,0 +1,16 @@
+
+arithmetic
+ok_text Hienosti meni! Kun leijan `144^{\circ}` kärki yhdistetään vastakkaiseen
+kärkeen, leija jakautuu kahteen yhteneväiseen tasakylkiseen kolmioon, joissa
+kantakulmat ovat `72^{\circ}` ja kärkikulma `36^{\circ}`. Kyljen pituudelle `b`
+saadaan sinilauseesta yhtälö `frac{b}{sin 72^{\circ}}=frac{1}{sin 36^{\circ}}`,
+jonka ratkaisu on `b=frac{sin 72 ^{\circ}}{sin 36^{\circ}} approx 1,618034`.
+Eli sivun `b` pituus on noin `1,618`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+1.618
+// BYCODEBEGIN
+=
+// BYCODEEND

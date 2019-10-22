@@ -1,0 +1,14 @@
+
+arithmetic
+ok_text Hienosti meni! Koska tangenttikulman ja sitä vastaavan keskuskulman summa on aina ` 180^{\circ}`, 
+voidaan päätellä, että tangenttikulma on `180^{\circ}-70^{\circ}=110^{\circ}`. Koska tangenttikulma on kulman `beta` vieruskulma ja
+vieruskulmien summan 
+täytyy olla `180 ^{\circ}`, niin `beta=180^{\circ}-110^{\circ}=70^{\circ}`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+70
+// BYCODEBEGIN
+=
+// BYCODEEND

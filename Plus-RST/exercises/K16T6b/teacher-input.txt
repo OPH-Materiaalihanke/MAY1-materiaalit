@@ -1,0 +1,12 @@
+
+arithmetic
+ok_text Hienosti meni! Koska pisteiden pituusasteiden erotus on `90`, kaari on neljäsosa koko napapiirin pituudesta.
+Napapiirin säde oli noin `2540,4` kilometria, joten kaaren pituus on `frac{1}{4}*2*pi*2540,4\approx 3990.`
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+3990
+// BYCODEBEGIN
+=
+// BYCODEEND

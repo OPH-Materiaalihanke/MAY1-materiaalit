@@ -1,0 +1,14 @@
+
+arithmetic
+ok_text Hienosti meni! Ympyrän kehällä on `24` kukkaa `20 " cm"` välein, joten
+ympyrän piirin pituus on `p=24 * 20 " cm"=480 " cm"`. Ratkaistaan ympyän piirin
+kaavasta `p=pi d` halkaisija, jolloin saadaan `d= p/pi` `=(480 " cm")/pi` 
+`approx 12,732 " cm"`. Kukkaistutuksen halkaisija on siis noin `13 " cm"`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+13
+// BYCODEBEGIN
+=
+// BYCODEEND

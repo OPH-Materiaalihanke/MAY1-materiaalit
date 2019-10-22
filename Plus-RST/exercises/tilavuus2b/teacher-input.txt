@@ -1,0 +1,15 @@
+
+arithmetic
+ok_text Hienosti meni! Merkitään pienemmän pallon tilavuutta muuttujalla `V_1` 
+ja suuremman pallon tilavuutta muuttujalla `V_2`. A-kohdassa määritetyn 
+yhdenmuotoisuussuhteen avulla saadaan verranto `(1/2)^3=1/8=V_1/V_2`. Kerrotaan
+ristiin, jolloin saadaan `V_2=8*V_1=8*1,0=8,0`. Isomman pallon tilavuus on
+`8` litraa.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+8
+// BYCODEBEGIN
+=
+// BYCODEEND

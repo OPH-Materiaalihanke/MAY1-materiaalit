@@ -1,0 +1,13 @@
+
+arithmetic
+ok_text Hienosti meni! Koska auringon etäisyys maasta on `387` kertainen kuun etäisyyteen maasta verrattuna, saadaan mittakaavaksi 
+`387:1`. Tilavuuksien suhde on mittakaavan kuutio, joten korotetaan mittakaava potenssiin kolme ja saadaan tilavuuksien suhteeksi 
+`57960603:1`, eli auringon tilavuus on `57960603`-kertainen kuuhun verrattuna.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+57960603
+// BYCODEBEGIN
+=
+// BYCODEEND

@@ -1,0 +1,12 @@
+
+arithmetic
+ok_text Hyvä! Kartion tilavuus lasketaan kaavalla `V=frac{A_p*h}{3}`. Pohjan pinta-ala on siis noin `(230\text{ m})^2=52900\text{ m}^2` ja
+kun tämä sijoitetaan tilavuuden kaavaan saadaan `V=2415766,667\text{ m}^3` eli pyöristettynä `2400000 \text{ m}^3.`
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+2400000
+// BYCODEBEGIN
+=
+// BYCODEEND

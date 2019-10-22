@@ -1,0 +1,16 @@
+
+arithmetic
+ok_text Hienosti meni! Merkitään kulmia `x`, `qx` ja `q^2x`, joista pienin on
+`pi/7`. Kulmien summa on `pi/7 (1+q+q^2)=pi`, josta saadaan ehto `q^2+q-6=0`
+`<=> q=2 vee q=-3` (ei kelpaa). Kulmien suuruudet ovat siten `pi/7`, 
+`frac{2 pi}{7}` ja `frac{4 pi}{7}`. Jos annettu kulma on keskimmäinen ja 
+kulmat ovat `x/q`, `x` ja `qx`, joista `x=pi/7`. Tällöin `q=3 pm 2 sqrt(2)`,
+ja kulmat ovat `frac{(3-2 sqrt(2)) pi}{7}`, `pi/7` ja `frac{(3 + 2 sqrt(2)) pi}{7}`.
+
+f_nodes 10
+hide_expr
+only_no_yes_on
+(3 + 2*sqrt(2)*pi)/7
+// BYCODEBEGIN
+=
+// BYCODEEND

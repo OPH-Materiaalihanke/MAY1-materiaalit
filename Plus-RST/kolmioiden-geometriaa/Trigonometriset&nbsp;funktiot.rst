@@ -1,0 +1,4 @@
+.. _trig:
+
+Trigonometriset funktiot
+------------------------

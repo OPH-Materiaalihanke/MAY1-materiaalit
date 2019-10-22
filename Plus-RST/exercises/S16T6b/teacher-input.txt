@@ -1,0 +1,18 @@
+
+arithmetic
+ok_text Loistavaa! Kaukalon päätykolmion korkeus `H` saadaan Pythagoraan lauseella 
+`(frac{1}{2})^2+H^2=a^2<=>H=frac{asqrt(3)}{2}` ja päätykolmion pinta-ala siten `A=frac{a^2sqrt(3)}{4}`.
+Vesi muodostaa kaukalon päätyyn tasakylkisen kolmion. Merkitään tämän kolmion kyljen pituutta 
+kirjaimella `d`. Nyt veden tilavuus voitaisiin laskea `V_v=frac{1}{2}d^2*sin(60)*b` ja a-kohdan perusteella 
+`V_v=frac{1}{3}Ab`, joten näistä saadaan yhtälö, josta voidaan ratkaista kyljen pituus:
+`frac{1}{2}*d^2*sin(60)*b=frac{1}{3}*(frac{a^2sqrt(3)}{4})*b<=>d=frac{a}{sqrt(3)}`.
+Nyt tasakylkisen vesikolmion korkeus `h` saadaan esimerkiksi kosinilla 
+`cos(30)=frac{h}{d}=frac{h}{frac{a}{sqrt(3)}}<=>h=frac{a}{2}`.
+
+f_nodes 3
+hide_expr
+only_no_yes_on
+1/2
+// BYCODEBEGIN
+=
+// BYCODEEND

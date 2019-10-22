@@ -1,0 +1,15 @@
+
+arithmetic
+ok_text Hienosti meni! Koska annetussa kolmiossa on kulma `60^{\circ}` sekä 
+suora kulma, se on yhdenmuotoinen sen muistikolmion kanssa, jonka kulmat ovat
+`60^{\circ}` ja `30^{\circ}`. Siksi näiden kahden kolmion sivuista voidaan 
+muodostaa verranto `2/y=sqrt(3)/2`. Kerrotaan ristiin `sqrt(3) x=4` ja jaetaan
+luvulla `sqrt(3)`, jolloin saadaan `x=4/sqrt(3)`.
+
+f_nodes 6
+hide_expr
+only_no_yes_on
+4/sqrt(3)
+// BYCODEBEGIN
+=
+// BYCODEEND

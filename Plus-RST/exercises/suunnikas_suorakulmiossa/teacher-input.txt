@@ -1,0 +1,14 @@
+
+arithmetic
+ok_text Hienosti meni! Suorakulmion pinta-ala on `A_1=ah`. Suunnikkaan
+pinta-ala on puolestaan `A_2=0,75ah`. Suunnikkaan pinta-ala on suorakulmion
+pinta-alasta `A_2/A_1 = frac{0,75ah}{ah} = 0,75`. Suunnikkaan pinta-ala on siis
+`75 %` suorakulmion pinta-alasta.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+0.75
+// BYCODEBEGIN
+=
+// BYCODEEND

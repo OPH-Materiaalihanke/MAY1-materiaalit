@@ -1,0 +1,13 @@
+
+arithmetic
+ok_text Hienosti meni! Suoran ympyräkartion vaipan pinta-ala lasketaan kaavalla
+`A_v=pi r s`. Sijoitetaan annetut arvot lausekkeeseen, jolloin saadaan
+`A_v= pi * %%r%% * %%s%%` `=%%rs%% pi`.
+
+f_nodes 3
+hide_expr
+only_no_yes_on
+pi*%%r%%*%%s%%
+// BYCODEBEGIN
+=
+// BYCODEEND

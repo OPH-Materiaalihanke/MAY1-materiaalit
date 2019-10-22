@@ -1,0 +1,23 @@
+---
+title: puu_kaatuu
+max_points: 2
+instructions: |
+  <p>  </p>
+  <p>
+    <iframe src="../_static/ggframe.html" id="puu_kaatuu_frame" onload="postMsg();" width="1000" height="600" frameborder="0"></iframe>
+    <script type="text/javascript">
+      function postMsg() {
+        var puu_kaatuuFrame = document.getElementById("puu_kaatuu_frame");        puu_kaatuuFrame.contentWindow.postMessage( '' + '´´´' + '{"appName" : "classic", "perspective" : "CG", "height" : 600, "showMenuBar" : true, "showAlgebraInput" : true, "showToolBar" : true, "showToolBarHelp" : true, "showResetIcon" : true, "showAlgebraInput" : true, "algebraInputPosition" : "bottom", "enableLabelDrags" : true, "enableShiftDragZoom" : true, "enableRightClick" : true, "errorDialogsActive" : false, "useBrowserForJS" : false, "allowStyleBar" : true, "preventFocus" : true, "showZoomButtons" : true, "capturingThreshold" : 3, "language" : "fi"}' , '*');
+        document.getElementById("puu_kaatuu_id").style.display = "none";
+      };
+    </script>
+  </p>
+view_type: access.types.stdasync.acceptPost 
+fields: # näiden täytyy olla valideja HTML-formien attribuutteja
+  - name: puu_kaatuu
+    required: True
+
+container:
+  image: apluslms/grade-nodejs:11-2.7
+  mount: exercises/geogebra-example
+  cmd: /exercise/run.sh ggb-element

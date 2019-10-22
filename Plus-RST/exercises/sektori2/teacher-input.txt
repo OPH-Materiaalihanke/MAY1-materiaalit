@@ -1,0 +1,15 @@
+
+arithmetic
+f_nodes 1
+ok_text Ratkaistaan kulma `alpha` sektorin pinta-alan kaavasta 
+`A=frac{alpha}{360^{\circ}} pi r^2`, jolloin saadaan 
+`alpha = frac{360^{\circ}*A}{pi r^2}`. Sijoitetaan annetut arvot, jolloin 
+saadaan `alpha = frac{360^{\circ}*52,9}{pi* 5,4^2} approx 207,884 ^{\circ}`.
+Keskuskulma on noin `208^{\circ}`.
+
+hide_expr
+only_no_yes_on
+208
+// BYCODEBEGIN
+=
+// BYCODEEND

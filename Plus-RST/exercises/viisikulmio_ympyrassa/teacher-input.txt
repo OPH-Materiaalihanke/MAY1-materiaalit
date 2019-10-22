@@ -1,0 +1,14 @@
+
+arithmetic
+ok_text Hienosti meni! Viisikulmio voidaan jakaa viiteen tasakylkiseen kolmioon. Kolmion kyljen pituutena on silloin ympyrän säde `5/2=2,5`,
+koska kyljet ulottuvat ympyrän keskipisteestä ympyrän kehälle. Kylkien välisen kulman voimme laskea jakamalla `360^{\circ}` viidellä, 
+koska kolmioita on `5` kpl. Kulman suuruudeksi saadaan siis `72^{\circ}` ja nyt voimme laskea yhden kolmion pinta-alan 
+trigonometrian avulla `A_{kolmio}=frac{1}{2}*2,5^2sin(72^{\circ})=2,972`. Koko viisikulmion pinta-ala on siis noin `14,9.`
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+14.9
+// BYCODEBEGIN
+=
+// BYCODEEND

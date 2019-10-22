@@ -1,0 +1,15 @@
+
+arithmetic
+ok_text Hienosti meni! Merkitään kysyttyä pituutta muuttujalla `x`. Annetusta
+mittakaavasta ja välimatkasta kartalla saadaan verranto `1/20000=frac{17,5}{x}`. 
+Kerrotaan ristiin, jolloin saadaan `x=20000*17,5=350000`. Tämä vastaus on
+senttimetreissä, joten muutetaan se vielä metreiksi jakamalla luvulla `100`.
+Vastaukseksi saadaan siis `3500 " m"`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+3500
+// BYCODEBEGIN
+=
+// BYCODEEND

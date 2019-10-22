@@ -1,0 +1,11 @@
+
+arithmetic
+ok_text Hienosti meni! Koko maapallon pinta-ala lasketaan `4*pi*(6370)^2=509904363,8` ja tästä `70 % `saadaan kertomalla luvulla `0,7.`
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+360000000
+// BYCODEBEGIN
+=
+// BYCODEEND

@@ -1,0 +1,13 @@
+
+arithmetic
+ok_text Hienosti meni! Ympyrän keskuskolmio on tasakylkinen kolmio, eli sen kantakulmat ovat molemmat `55^{\circ}`, joten
+`alpha=180^{\circ}-55^{\circ}-55^{\circ}=70^{\circ}`. 
+
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+70
+// BYCODEBEGIN
+=
+// BYCODEEND

@@ -1,0 +1,18 @@
+
+equation q=sqrt((1+sqrt(5))/(2)) ends
+ok_text Hienosti meni! Koska pituudet muodostavat geometrisen jonon, voidaan 
+merkitä `b=qa` ja `c=qb=q^2a`. Lisäksi tiedetään, että Pythagoraan lauseen
+mukaan `a^2+b^2=c^2`. Sijoitetaan `b` ja `c` tähän yhtälöön:
+`a^2+(qa)^2=(q^2a)^2 <=> a^2+q^2a^2=q^4a^2`. Jaetaan termillä `a^2`, jolloin jää
+`1+q^2=q^4`. Järjestellään termejä, jolloin saadaan `q^4-q^2-1=0`. Toisen
+asteen yhtälön ratkaisukaavan avulla saadaan `q^2=frac{1 pm sqrt(5)}{2}`. 
+Etumerkki `-` ei kelpaa. Näin ollen suhdeluku `q= pm sqrt(frac{1 + sqrt(5)}{2})`.
+Vain etumerkki `+` kelpaa, joten `q= sqrt(frac{1 + sqrt(5)}{2})`.
+
+f_nodes 9
+hide_expr
+only_no_yes_on
+q=sqrt((1+sqrt(5))/(2))
+// BYCODEBEGIN
+<=> q=
+// BYCODEEND

@@ -1,0 +1,12 @@
+
+arithmetic
+ok_text Hienosti meni! Suunnikkaan pinta-ala lasketaan kaavalla `A=ah`. Nyt
+`a=%%a%%` ja `h=%%h%%`, jolloin `A=ah= %%a%% * %%h%% = %%A%%`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+%%A%%
+// BYCODEBEGIN
+=
+// BYCODEEND

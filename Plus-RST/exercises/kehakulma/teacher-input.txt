@@ -1,0 +1,11 @@
+
+arithmetic
+ok_text Hienosti meni! Kehäkulman suuruus on puolet sitä vastaavan keskuskulman suuruudesta, eli `alpha=frac{85^{\circ}}{2}=42,5^{\circ}`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+42.5
+// BYCODEBEGIN
+=
+// BYCODEEND

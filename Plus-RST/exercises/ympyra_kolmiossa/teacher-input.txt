@@ -1,0 +1,11 @@
+
+arithmetic
+ok_text Hienosti meni!
+
+f_nodes 3
+hide_expr
+only_no_yes_on
+pi/9
+// BYCODEBEGIN
+=
+// BYCODEEND

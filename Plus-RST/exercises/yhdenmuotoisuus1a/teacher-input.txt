@@ -1,0 +1,13 @@
+
+arithmetic
+ok_text Hienosti meni! Huomataan vastinsivuista, että pienemmän kolmion sivujen
+pituudet ovat puolet vastinsivujen pituuksista isommassa kolmiossa. Tällöin 
+`x=4/2=2`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+2
+// BYCODEBEGIN
+=
+// BYCODEEND

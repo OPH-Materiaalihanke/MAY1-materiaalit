@@ -1,0 +1,15 @@
+
+arithmetic
+ok_text Hienosti meni! Merkitään kysyttyä välimatkaa muuttujalla `x`. Annetusta
+mittakaavasta ja välimatkasta kartalla saadaan verranto `1/80000=frac{24,5}{x}`. 
+Kerrotaan ristiin, jolloin saadaan `x=80000*24,5=1960000`. Tämä vastaus on
+senttimetreissä, joten muutetaan se vielä kilometreihin jakamalla luvulla `100000`.
+Vastaukseksi saadaan siis `19,6 " km"`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+19.6
+// BYCODEBEGIN
+=
+// BYCODEEND

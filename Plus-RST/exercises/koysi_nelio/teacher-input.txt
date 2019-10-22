@@ -1,0 +1,13 @@
+
+arithmetic
+ok_text Hienosti meni! Koska neliössä jokainen sivu on yhtä pitkä, yhden sivun pituus on `\frac{150\text{ m}}{4}=37,5\text{ m}`. 
+Neliön muotoisen alueen pinta-alaksi tulee siis `(37,5\text{ m})^2=1406,25\text{ m}^2` eli vastaus pyöristettynä neliömetrien tarkkuuteen on 
+`1406 \text{ m}^2`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+1406
+// BYCODEBEGIN
+=
+// BYCODEEND

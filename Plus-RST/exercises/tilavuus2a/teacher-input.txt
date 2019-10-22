@@ -1,0 +1,12 @@
+
+arithmetic
+ok_text Hienosti meni! Yhdenmuotoisuussuhde saadaan jakamalla vastinpituudet, 
+eli `frac{15 " cm"}{30 " cm"}=1/2`.
+
+f_nodes 3
+hide_expr
+only_no_yes_on
+1/2
+// BYCODEBEGIN
+=
+// BYCODEEND

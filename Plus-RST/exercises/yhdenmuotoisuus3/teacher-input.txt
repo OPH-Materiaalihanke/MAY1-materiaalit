@@ -1,0 +1,18 @@
+
+arithmetic
+ok_text Hienosti meni! Iso kolmio ja sen sisällä oleva kolmio ovat yhdenmuotoisia
+KK-lauseen mukaisesti, sillä molempien pienimmät kulmat ovat keskenään yhteneviä
+ja molemmissa on suora kulma. Voidaan siis muodostaa verranto, jossa ovat 
+kolmioiden korkeudet ja niiden kantojen pituudet: `h/60=frac{h-20}{44}`. 
+Kerrotaan ristiin, jolloin saadaan `44h=60*(h-20)`. Kerrotaan sulut auki ja 
+siirretään kaikki muuttujaa `h` sisältävät termit vasemmalle puolelle:
+`44h-60h=-1200 <=> -16h=-1200`. Jaetaan luvulla `-16`, jolloin saadaan
+`h=75`. Ison kolmion korkeus on siis 75.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+75
+// BYCODEBEGIN
+=
+// BYCODEEND

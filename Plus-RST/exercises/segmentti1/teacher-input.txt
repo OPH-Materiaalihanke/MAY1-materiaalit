@@ -1,0 +1,15 @@
+
+arithmetic
+ok_text Hienosti meni! Koska annettu keskuskulma on pienempi kuin `180^{\circ}`,
+käytetään kaavassa vähennyslaskua. Sijoitetaan kaavaan 
+`A=frac{alpha}{360^{\circ}} pi r^2 - frac{r^2}{2} sin (alpha)` annetut arvot,
+jolloin saadaan 
+`A=frac{138^{\circ}}{360^{\circ}} pi 2^2 - frac{2^2}{2} sin (138^{\circ})=3,479`. Segmentin pinta-ala on noin `3,5`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+3.5
+// BYCODEBEGIN
+=
+// BYCODEEND

@@ -1,0 +1,14 @@
+
+arithmetic
+ok_text Hienosti meni! Käyrä koostuu kolmesta ympyrän kaaresta, joista ensimmäinen ja 
+kolmas ovat yhtä pitkät. Ensimmäisen säde on neliön sivu, eli `frac{p}{4}` ja toisen säde on neliön lävistäjä `frac{psqrt(2)}{4}.`
+Jokaista kaarta vastaava keskuskulma on `90` astetta eli `frac{pi}{2}`.
+Käyrän pituus on `2*frac{pi}{2}*frac{p}{4}+frac{1}{4}*2pi*frac{p*sqrt(2)}{4}=frac{(2+sqrt(2))pi}{8}p.`
+
+f_nodes 8
+hide_expr
+only_no_yes_on
+((2+sqrt(2))*pi)/8
+// BYCODEBEGIN
+=
+// BYCODEEND

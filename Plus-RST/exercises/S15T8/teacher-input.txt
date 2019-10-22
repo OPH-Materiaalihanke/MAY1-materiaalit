@@ -1,0 +1,14 @@
+
+arithmetic
+ok_text Hienosti meni! Suoran ympyrälieriön akseli on kohtisuorassa lieriön pohjaa vasten, eli poikkileikkauksen halkaisija on 
+sama kuin pohjaympyrän halkaisija. Pohjaympyrän säde on siis `frac{1,3\text{ m}}{2}=0,65\text{ m}=6,5\text{ dm}.`Koska 
+lieriön tilavuus tiedetään, voidaan ratkaista säiliön pituus, eli lieriön korkeus tilavuuden kaavasta
+`pi (6,5\text{ dm})^2*h=3000 \text{ dm}^3<=>h=22,6 \text{ dm}``\approx 2,3 \text{ m}`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+2.3
+// BYCODEBEGIN
+=
+// BYCODEEND

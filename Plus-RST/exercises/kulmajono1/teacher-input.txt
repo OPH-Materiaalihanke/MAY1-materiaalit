@@ -1,0 +1,15 @@
+
+arithmetic
+ok_text Hienosti meni! Merkitään kulmia `a`, `a+d` ja `a+2d`. Kulmien summasta
+saadaan lauseke `3a+3d=180^{\circ}` `<=> a+d=60^{\circ}`. Lisäksi tiedetään, 
+että suurin kulma on `a+2d=103^{\circ}`. Ratkaisemalla tämä yhtälöpari, saadaan
+`a=17^{\circ}` ja `d=43^{\circ}`. Kulmat ovat siis `17^{\circ}`, `60^{\circ}`
+ja `103^{\circ}`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+17
+// BYCODEBEGIN
+=
+// BYCODEEND

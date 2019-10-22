@@ -1,0 +1,14 @@
+
+arithmetic
+ok_text Hienosti meni! Kuution tilavuus on särmän pituus korotettuna kolmanteen, eli jos merkitään 
+särmän pituutta kirjaimella `x` niin tilavuus on `x^3`. Koska tilavuus on annettu, voidaan ratkaista kuution särmän pituus, eli
+`x^3=7000 \text{cm}^3<=>x=root(3)(7000)\text{cm}}\approx 19,1293 \text{cm}`. Nyt sivutahkon pinta-ala on särmän pituuden neliö, eli
+`x^2\approx 366 \text{cm}^2`.
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+366
+// BYCODEBEGIN
+=
+// BYCODEEND

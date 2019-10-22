@@ -1,0 +1,2 @@
+Yhtälö sovelluksissa
+--------------------

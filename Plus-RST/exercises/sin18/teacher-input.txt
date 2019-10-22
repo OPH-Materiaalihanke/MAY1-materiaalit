@@ -1,0 +1,21 @@
+
+arithmetic
+ok_text Hienosti meni! Merkitään alkuperäisen kolmion kolmatta sivua kirjaimella
+`x`. Vihjeen 1 mukainen musta jana jakaa alkuperäisen kolmion kahdeksi 
+kolmioksi. Oikeanpuoleinen kolmio on yhdenmuotoinen alkuperäisen kolmion kanssa,
+sillä molempien vastinkulmat ovat yhtä suuria (huippukulmat `36^{\circ}` ja 
+kantakulmat `72^{\circ}`). Tällöin voidaan muodostaa verranto
+`x/1=frac{1-x}{x}`. Kerotaan ristiin ja järjestellään termit uudelleen, jolloin
+saadaan `x^2=1-x` `<=> x^2+x-1=0`. Ratkaistaan toisen asteen yhtälö, jolloin
+saadaan `x=frac{-1 pm sqrt(5)}{2}`. Koska sivun pituus ei voi olla negatiivinen,
+on oltava `x=frac{-1+sqrt(5)}{2}`. Vihjeen 2 mukainen jana jakaa kolmion 
+kahdeksi suorakulmaiseksi kolmioksi, joista nähdään, että 
+`sin (18^{\circ})=x/2=frac{sqrt(5)-1}{4}`.
+
+f_nodes 7
+hide_expr
+only_no_yes_on
+(sqrt(5)-1)/4
+// BYCODEBEGIN
+=
+// BYCODEEND

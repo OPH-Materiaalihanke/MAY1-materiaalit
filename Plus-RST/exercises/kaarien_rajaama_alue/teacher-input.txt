@@ -1,0 +1,15 @@
+
+arithmetic
+ok_text Loistavaa! Neliön lävistäjä on `sqrt((2a)^2+(2a)^2)=2sqrt(2)a`. nyt saadaan kosinilauseella ratkaistua kulmat `alpha` ja `beta`:
+`a^2+(2sqrt(2)a)^2-2*a*2sqrt(2)cos(alpha)=(2a)^2<=>cos(alpha)=frac{5sqrt(2)}{8}<=>alpha=27,89^{\circ}` 
+ja samoin `cos(beta)=frac{11sqrt(2)}{16}<=>beta=13,52^{\circ}`. 
+Nyt saadaan laskettua segmenttien pinta-alat kaavalla `A_{SEG}=A_{SEK}-A_{keskuskolmio}`: `frac{2*13,52^{\circ}}{360^{\circ}}*pi*(2a)^2-frac{1}{2}*(2a)^2sin(2*13,52)\approx 0,034645 a^2` ja 
+`frac{2*27,89^{\circ}}{360^{\circ}}*pi*(a)^2-frac{1}{2}*(a)^2sin(2*27,89)\approx 0,07333 a^2`. Kysytty alue, on näiden kahden summa eli noin `0,108 a^2.`
+
+f_nodes 1
+hide_expr
+only_no_yes_on
+0.108
+// BYCODEBEGIN
+=
+// BYCODEEND

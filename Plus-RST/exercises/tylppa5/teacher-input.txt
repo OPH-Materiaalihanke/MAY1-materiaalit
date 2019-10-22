@@ -1,0 +1,12 @@
+
+arithmetic
+ok_text Hienosti meni! Kosinin arvo luetaan yksikköympyrän kehän pisteen 
+`x`-koordinaatista, joten `cos (57,4^{\circ})=0,54`.
+
+f_nodes 4
+hide_expr
+only_no_yes_on
+0.54
+// BYCODEBEGIN
+=
+// BYCODEEND
