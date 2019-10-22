@@ -1,4 +1,0 @@
-.. _sinilause-teht:
-
-Sinilause
----------

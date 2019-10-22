@@ -1,2 +1,0 @@
-Kulmia avaruudessa
-------------------

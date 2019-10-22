@@ -1,2 +1,0 @@
-Kolmioiden geometriaa: tehtäviä
-===============================

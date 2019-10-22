@@ -1,4 +1,0 @@
-.. _suunnikas-teht:
-
-Suunnikas
----------

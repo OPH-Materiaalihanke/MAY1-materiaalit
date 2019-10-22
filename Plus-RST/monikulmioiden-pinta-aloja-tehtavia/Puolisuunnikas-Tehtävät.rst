@@ -1,4 +1,0 @@
-.. _puolisuunnikas-teht:
-
-Puolisuunnikas
---------------

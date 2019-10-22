@@ -1,4 +1,0 @@
-.. _keskuskulma:
-
-Keskuskulma, kehäkulma
-----------------------

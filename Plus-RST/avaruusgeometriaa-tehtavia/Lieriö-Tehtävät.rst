@@ -1,4 +1,0 @@
-.. _lierio-teht:
-
-Lieriö
-------

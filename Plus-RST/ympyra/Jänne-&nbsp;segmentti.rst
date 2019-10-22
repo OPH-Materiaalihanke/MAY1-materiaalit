@@ -1,4 +1,0 @@
-.. _janne:
-
-Jänne, segmentti
-----------------

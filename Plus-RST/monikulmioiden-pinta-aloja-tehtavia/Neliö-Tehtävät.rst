@@ -1,4 +1,0 @@
-.. _nelio-teht:
-
-Neliö
------

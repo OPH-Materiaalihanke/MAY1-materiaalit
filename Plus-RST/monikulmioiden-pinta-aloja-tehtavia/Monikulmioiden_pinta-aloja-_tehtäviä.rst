@@ -1,2 +1,0 @@
-Monikulmioiden pinta-aloja: tehtäviä
-====================================

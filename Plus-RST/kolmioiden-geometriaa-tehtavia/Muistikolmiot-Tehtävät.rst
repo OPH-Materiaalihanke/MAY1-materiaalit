@@ -1,4 +1,0 @@
-.. _muistikolmiot-teht:
-
-Muistikolmiot
--------------

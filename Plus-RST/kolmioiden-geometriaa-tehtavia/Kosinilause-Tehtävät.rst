@@ -1,4 +1,0 @@
-.. _kosinilause-teht:
-
-Kosinilause
------------

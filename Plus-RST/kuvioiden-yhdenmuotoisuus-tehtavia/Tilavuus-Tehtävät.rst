@@ -1,4 +1,0 @@
-.. _tilavuus-teht:
-
-Tilavuus
---------

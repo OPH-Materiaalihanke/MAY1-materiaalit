@@ -1,0 +1,2 @@
+Potenssi ja juuri
+=================

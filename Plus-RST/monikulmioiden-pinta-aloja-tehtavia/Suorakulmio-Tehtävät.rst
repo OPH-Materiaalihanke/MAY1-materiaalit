@@ -1,4 +1,0 @@
-.. _suorakulmio-teht:
-
-Suorakulmio
------------

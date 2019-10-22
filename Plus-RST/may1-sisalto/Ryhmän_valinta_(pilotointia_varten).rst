@@ -1,0 +1,2 @@
+Ryhmän valinta (pilotointia varten)
+===================================

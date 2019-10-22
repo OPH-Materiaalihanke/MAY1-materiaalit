@@ -1,0 +1,2 @@
+Potenssifunktio
+---------------

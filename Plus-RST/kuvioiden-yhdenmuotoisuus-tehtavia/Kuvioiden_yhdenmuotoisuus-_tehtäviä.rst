@@ -1,2 +1,0 @@
-Kuvioiden yhdenmuotoisuus: tehtäviä
-===================================

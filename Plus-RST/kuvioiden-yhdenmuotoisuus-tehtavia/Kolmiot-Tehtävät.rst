@@ -1,4 +1,0 @@
-.. _kolmiot-teht:
-
-Kolmiot
--------

@@ -1,4 +1,0 @@
-.. _pallo-teht:
-
-Pallo
------

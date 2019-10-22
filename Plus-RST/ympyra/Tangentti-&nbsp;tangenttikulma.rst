@@ -1,4 +1,0 @@
-.. _tangentti:
-
-Tangentti, tangenttikulma
--------------------------
